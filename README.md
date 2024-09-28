@@ -27,7 +27,7 @@ Challenge: Your startup has identified a need to create a custom virtual machine
 ## STEPS TO PERFORM
 1. Clone this repository on ubuntu using
    ```
-   git clone https://github.com/NirbehKaur/tokenvm/
+   git clone https://github.com/akshitgrana/tokenvm/
    ```
 2. Open this repository on VS code from ubuntu by running the following command
    ```
