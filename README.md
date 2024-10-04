@@ -3,6 +3,9 @@
 ## Project: Create a Custom Subnet
 Challenge: Your startup has identified a need to create a custom virtual machine to enable users to mint and transfer tokens. The HyperSDK provides a powerful solution for this task by allowing you to build a custom blockchain tailored to your specific needs. With the HyperSDK, you can define the rules and functionality of your chain, including the ability to create and transfer tokens and manage order books for trading assets.
 
+## Video Walkthrough
+https://www.loom.com/share/20faf38e37c94aaeaa22a6e6579a4f00?sid=b0117737-704d-4d53-aa6a-abcad3a58159
+
 ## PRE INSTALLATION REQUIRED
 1. WSL: I have made this project on Ubuntu using WSL.
 2. GO: To install go , run
